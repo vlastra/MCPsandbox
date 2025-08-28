@@ -1,4 +1,3 @@
-# vst_lab
 ## VS Code + Oracle SQL Developer Extension for VS Code (SQLcl)/SQLcl remote + Cline 
 *[primary source](https://medium.com/oracledevs/talk-to-your-oracle-database-with-ai-set-up-natural-language-sql-in-vs-code-6c7fd83c0de7)*
 *ChatGPT :-)*
